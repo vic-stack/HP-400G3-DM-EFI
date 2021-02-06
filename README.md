@@ -25,10 +25,8 @@ OpenCore 0.6.6正式版
 自己填写一下SMBIOS信息，然后就可以使用了，建议选择iMac19,1 也可以选择iMac18,1-3
 因为CPU原因显卡仿冒为HD530,也可以改仿冒UHD630
 QL3X魔改CPU，暂时无法睡眠，休眠后开启HDMI显示器不显示，DP转HDMI连接显示器，后面找个DP口显示器再试试。
-使用说明
-xxxx
-xxxx
-xxxx
+
+
 参考教程
 https://github.com/vic-stack/HP-400G3-DM-EFI
 https://post.smzdm.com/p/a6lxvzng/
