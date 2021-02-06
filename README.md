@@ -11,13 +11,21 @@ CPU：QL3X（魔改CPU）
 硬件配置
 
 硬件	型号	备注
+
 CPU	QL3X(7代魔改U)	显示正常
+
 内存	DDR4 2400	
+
 显卡	HD 630	仿冒HD 530或UHD 630
+
 声卡	ALC662	
+
 网卡	Intel AX200	无线网卡
+
 硬盘	英睿达240G固态	
+
 显示器	LG 27	DP转HDMI
+
 软件版本
 OpenCore 0.6.6正式版
 
